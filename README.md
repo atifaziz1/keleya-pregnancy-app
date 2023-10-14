@@ -13,7 +13,7 @@
 <br />
 
 ### Prerequisites
-1. **Node.js:** Make sure Node.js is installed on your machine. React Native requires Node.js to run the JavaScript build process and manage dependencies.
+1. **Node.js: (Node version: 18)** Make sure Node.js is installed on your machine. React Native requires Node.js to run the JavaScript build process and manage dependencies.
 2. **Java Development Kit (JDK):** React Native requires the JDK to build and run Android applications. Make sure you have JDK 8 or later installed.
 3. **Android development environment:** Setting up the Android development environment is necessary if you want to develop and test Android apps. This includes installing Android Studio and setting up the necessary Android SDK and virtual devices.
 4. **Xcode:** If you're targeting iOS devices, you'll need to have Xcode installed. Xcode provides the necessary tools for building and running iOS apps, as well as the iOS simulator for testing.

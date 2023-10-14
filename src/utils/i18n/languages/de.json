@@ -1,0 +1,58 @@
+{
+    "introduction": {
+        "message1" : "Für eine fitte und entspannte Schwangerschaft"
+    },
+    "getStarted": "Loslegen",
+    "orLogin": "oder einloggen",
+    "email" : "Email",
+    "password": "Passwort",
+    "error" : "Error",
+    "emailRequired": "Email is Required",
+    "passwordRequired": "Password is Required",
+    "continue" : "Weitermachen",
+    "cancel": "Abbrechen",
+    "passwordPlaceholder": "Geben Sie ein Passwort ein",
+    "login":{
+        "header": "Willkommen zurück!",
+        "forgottenPassword": "Hast du dein Passwort vergessen?",
+        "logIn":"Einloggen"
+    },
+    "singUp":{
+        "header": "Fügen Sie Ihre Daten unten hinzu zu",
+        "headerR": "ein Konto einrichten",
+        "policyMessage": "ich habe das gelesen ",
+        "privacyPolicy": "Datenschutz-Bestimmungen",
+        "accept": "Ich akzeptiere das ",
+        "termsAndConditions": "Terms & Bedingungen",
+        "and": " und ",
+        "advices": "Keleyas Ratschläge",
+        "createAccount": "Benutzerkonto erstellen"
+    },
+    "success":{
+        "header1":"Erhalten Sie Benachrichtigungen zum Boosten",
+        "header2":"deine Motivation",
+        "skip":"überspringen",
+        "allowNotifications": "Benachrichtigungen zulassen"
+
+    },
+    "nameScreen":{
+        "message1": "Schön, dass Sie hier sind! Zuerst",
+        "message2": "Dinge zuerst, was sollen wir?",
+        "message3":"rufst du an?",
+        "yourName": "Dein Name"
+    },
+    "dateScreen":{
+        "message1":"Wann kommt Ihr Baby, ",
+        "selectDate":"Datum auswählen"
+    },
+    "workOut":{
+        "heading1": "Wie oft möchten Sie in der Woche aktiv sein?"
+    },
+    "sideMenu":{
+        "logout": "Ausloggen",
+        "logoutSentence": "Sie kehren zum Anmeldebildschirm zurück."
+    },
+    "SuccessScreen":{
+        "title": "Erfolg"
+    }
+   }

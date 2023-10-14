@@ -1,0 +1,58 @@
+{
+    "introduction": {
+        "message1" : "For a fit and relaxed pregnancy"
+    },
+    "getStarted": "Get Started",
+    "orLogin": "Or login",
+    "email" : "Email",
+    "password": "Password",
+    "error" : "Error",
+    "emailRequired": "Email is Required",
+    "passwordRequired": "Password is Required",
+    "continue" : "Continue",
+    "cancel": "Cancel",
+    "passwordPlaceholder": "Enter a Password",
+    "login":{
+        "header": "Welcome back!",
+        "forgottenPassword": "Have You forgotten your password?",
+        "logIn":"Log In"
+    },
+    "singUp":{
+        "header": "Add your details below to",
+        "headerR": "setup an account",
+        "policyMessage": "I have read the ",
+        "privacyPolicy": "privacy policy",
+        "accept": "I accept the ",
+        "termsAndConditions": "terms & conditions",
+        "and": " and ",
+        "advices": "Keleyas advices",
+        "createAccount": "Create account"
+    },
+    "success":{
+        "header1":"Get notifications to boost",
+        "header2":"your motivation",
+        "skip":"skip",
+        "allowNotifications": "Allow Notifications"
+
+    },
+    "nameScreen":{
+        "message1": "It's great that you're here! First",
+        "message2": "things first, what should we",
+        "message3":"call you?",
+        "yourName": "Your Name"
+    },
+    "dateScreen":{
+        "message1":"When is your baby due, ",
+        "selectDate":"Select Date"
+    },
+    "workOut":{
+        "heading1": "How many times a week do you want to be active?"
+    },
+    "sideMenu":{
+        "logout": "Logout",
+        "logoutSentence": "You will be return to login screen."
+    },
+    "SuccessScreen":{
+        "title": "Success"
+    }
+   }

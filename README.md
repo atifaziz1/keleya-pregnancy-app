@@ -28,7 +28,7 @@
 First clone the repo using `SSH` or `HTTPS`.
 Here's an example using `HTTPS`:
 
-``
+`https://github.com/atifaziz1/keleya-pregnancy-app.git`
 
 Second run the following command to install project dependencies:
 
@@ -78,4 +78,10 @@ You will need to make one more step to install pods dependencies, run the follow
 
 
 ### Screenshots
-
+<img src="https://github.com/atifaziz1/keleya-pregnancy-app/assets/37400835/f2b827fa-8220-42ae-91a3-3ddc3f639ab1"  height="500">
+<img src="https://github.com/atifaziz1/keleya-pregnancy-app/assets/37400835/25da461f-128e-4be2-a141-f2c6da7c3bc0"  height="500">
+<img src="https://github.com/atifaziz1/keleya-pregnancy-app/assets/37400835/b5527920-8562-47ab-8c70-fb714e84a461"  height="500">
+<img src="https://github.com/atifaziz1/keleya-pregnancy-app/assets/37400835/baa41f02-769a-4161-b207-d2738096aa7d"  height="500">
+<img src="https://github.com/atifaziz1/keleya-pregnancy-app/assets/37400835/19e93436-8b1f-47ec-a4e5-37733a3b9c03"  height="500">
+<img src="https://github.com/atifaziz1/keleya-pregnancy-app/assets/37400835/d4d08755-c7a9-4ed8-8a24-1b3c68b839da"  height="500">
+<p/>
